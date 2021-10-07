@@ -1,2 +1,2 @@
 # QuessWord
-Arvataan sanan kirjaimia.
+Ohjelma antaa käyttäjän arvata arvotun sanan kirjaimia, kunnes kaikki kirjaimet on arvattu tai arvausten enimmäisraja on täynnä.
